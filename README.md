@@ -1,0 +1,1 @@
+This is for testing purposes, I created this repository s that i can confirm whether i finally understood everything about serving static files using nginx
